@@ -7,6 +7,13 @@
 
 #### Start the application
 
-1. Clone the repository
-2. node index.js
+   ```
+   git clone https://github.com/sherksiva/StripePaymentGateway.git
+   ```
+   ```
+   npm install
+   ```
+   ```
+    node index.js
+   ```
 
